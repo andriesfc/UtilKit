@@ -2,8 +2,6 @@ pluginManagement {
     includeBuild("build-logic")
 }
 
+rootProject.name = "UtilKt"
 
-rootProject.name = "kotlin-java-template"
-
-include(":app")
-include(":commons")
+include(":utilkt-commons-core")
