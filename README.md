@@ -4,4 +4,4 @@
 
 | Artifact ID           | Project Source Folder    | Description                                                  |
 |-----------------------|--------------------------|--------------------------------------------------------------|
-| `utilkt.commons.core` | `./utilkit-commons-core` | Core library which only depends on the standard java library |
+| `utilkt.commons.core` | `./utilkt-commons-core` | Core library which only depends on the standard java library |
